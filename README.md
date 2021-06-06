@@ -2,9 +2,10 @@
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
-<img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" width="400" src="https://automotiquenation.com/illustration.png">
+<!-- <img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
-![img](https://automotiquenation.com/illustration.png)
+
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 
