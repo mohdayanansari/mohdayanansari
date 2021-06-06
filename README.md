@@ -14,7 +14,11 @@
 
 - 🚀 **Hoping to die on Mars**
 
-
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://www.instagram.com/object_oriented_dev/" target="blank"><img align="center" src="https://automotiquenation.com/instagram.png" alt="Ayan Ansari" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/objectorienteddev" target="blank"><img align="center" src="https://automotiquenation.com/linkedin.png" alt="Ayan Ansari" height="30" width="40" /></a>
+</p>
 
 <!--
 **objectorienteddev07/objectorienteddev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
