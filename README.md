@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
 <img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-![img](http://contentcreation.co.in/wp-content/uploads/2021/06/animation_500_kplaqliw-1.gif)
+![img](http://contentcreation.co.in/wp-content/uploads/2021/05/cropped-Favicon-pngimg.png)
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 
