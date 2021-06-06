@@ -3,7 +3,7 @@
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
 <img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<!-- https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif -->
+https://media.giphy.com/media/gFmkpNCar7TSoauRUs/source.gif
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 
 - 📫 How to reach me **ayanansari@automotiquenation.com**
