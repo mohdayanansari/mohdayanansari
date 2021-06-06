@@ -1,4 +1,6 @@
-### Hi there 👋
+<h4 align=center>Hi there 👋</h4>
+<h1 align=center>I'm Ayan Ansari</h1>
+<h4 align=center>Developer & Graphic Designer</h4>
 
 <!--
 **objectorienteddev07/objectorienteddev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
