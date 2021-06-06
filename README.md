@@ -8,7 +8,7 @@
 
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
-- 🌱 **I’m currently learning Machine Learning**
+- 🌱 **I’m currently acquiring the knowledge Machine Learning**
 
 - ✉ **ayanansari@automotiquenation.com**
 
