@@ -9,7 +9,7 @@
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 
-- 📫 How to reach me **ayanansari@automotiquenation.com**
+- ✉ **ayanansari@automotiquenation.com**
 
 - 🚀 **Hoping to die on Mars**
 
