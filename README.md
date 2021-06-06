@@ -2,7 +2,7 @@
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
-<img align="right" alt="Coding" width="400" src="http://contentcreation.co.in/wp-content/uploads/2021/06/animation_500_kplaqliw-1.gif">
+<img align="right" alt="Coding" src="http://contentcreation.co.in/wp-content/uploads/2021/06/animation_500_kplaqliw-1.gif">
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 
