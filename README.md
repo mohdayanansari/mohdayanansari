@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <!-- wakatime week stats -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" borderRadius="50"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" style="border-radius:50%"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
