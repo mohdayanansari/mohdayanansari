@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.instagram.com/object_oriented_dev/" target="blank"><img align="center" src="https://automotiquenation.com/instagram.png" alt="Ayan Ansari" width="50"></a>
   |
-<a href="www.linkedin.com/in/objectorienteddev" target="blank"><img align="center" src="https://automotiquenation.com/linkedin.png" alt="Ayan Ansari" width="50"></a>
+<a href="https://www.linkedin.com/in/objectorienteddev" target="blank"><img align="center" src="https://automotiquenation.com/linkedin.png" alt="Ayan Ansari" width="50"></a>
 </p>
 
 <!--
