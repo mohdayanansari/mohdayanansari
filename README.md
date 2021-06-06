@@ -3,9 +3,6 @@
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
 <img align="right" width="450" src="https://automotiquenation.com/github.svg">
-<!-- <img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
-
-
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 - 🌱 **I’m currently acquiring the knowledge Machine Learning**
@@ -47,4 +44,6 @@ Here are some ideas to get you started:
 
 <!-- wakatime week stats -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" border-radius="50"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
