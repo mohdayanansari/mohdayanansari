@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&layout=compact" />
 </a>
+
+<!-- Most used languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
