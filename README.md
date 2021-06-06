@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </a>
 
 <!-- wakatime week stats -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev07)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev)](https://github.com/anuraghazra/github-readme-stats)
 
