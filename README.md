@@ -21,5 +21,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&layout=compact" />
 </a>
 
-<!-- Most used languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- wakatime week stats -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev07)](https://github.com/anuraghazra/github-readme-stats)
+
