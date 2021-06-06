@@ -2,6 +2,15 @@
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
+<iframe align=right src="https://lottiefiles.com/iframe/47155-coding"></iframe>
+<!-- - 👨‍💻 You can also check out my portfolio at  -->
+
+- 📫 How to reach me **ayanansari@automotiquenation.com**
+
+- 🚀 **Hoping to die on Mars**
+
+
+
 <!--
 **objectorienteddev07/objectorienteddev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
