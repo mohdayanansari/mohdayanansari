@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <!-- Moving illustration -->
 <!-- <img align="right" style="border-radius:50%"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
+use 'for' loop
 '''javascript
 console.log(end)
 '''
