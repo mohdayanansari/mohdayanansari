@@ -5,7 +5,7 @@
 <img align="right" width="450" src="https://automotiquenation.com/github.svg">
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
-- 🌱 **I’m currently acquiring the knowledge Machine Learning**
+- 🌱 **I’m currently acquiring the knowledge of Machine Learning**
 
 - ✉ **ayanansari@automotiquenation.com**
 
