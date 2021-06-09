@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- wakatime week stats -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact&custom_title='Coding Time Stats')](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Moving illustration -->
