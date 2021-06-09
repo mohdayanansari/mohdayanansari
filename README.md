@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- three.js Repo-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Three.js-Project-1&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Simon's Game Repo -->
-<align="left">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Simons-Game&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Moving illustration -->
