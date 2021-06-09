@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
 </a>
-
+<br>
 <!-- wakatime week stats -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
