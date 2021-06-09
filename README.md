@@ -49,11 +49,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Favourite Repo's</h1>
-<!-- three.js Repo-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Three.js-Project-1&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- Simon's Game Repo -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Simons-Game&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+<!-- three.js Repo-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Three.js-Project-1&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Moving illustration -->
 <!-- <img align="right" style="border-radius:50%"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
