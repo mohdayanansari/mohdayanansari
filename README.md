@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <!-- React Todo App Repo -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Todo-React.js-App&show-owner=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Todo-React.js-App&show-owner=true&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Simon's Game Repo -->
 
