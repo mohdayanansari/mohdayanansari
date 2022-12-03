@@ -2,12 +2,12 @@
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
-<img align="right" width="450" src="https://automotiquenation.com/github.svg">
+<!-- <img align="right" width="450" src="https://automotiquenation.com/github.svg"> -->
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 - 🌱 **I’m currently acquiring the knowledge of Machine Learning**
 
-- ✉ **ayanansari@automotiquenation.com**
+- ✉ **mohdayanansari1999@gmail.com**
 
 - 🚀 **Hoping to die on Mars**
 
