@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.instagram.com/object_oriented_dev/" target="blank"><img align="center" src="https://automotiquenation.com/instagram.svg" alt="Ayan Ansari" width="50"></a>
+<a href="https://www.instagram.com/ayanansari._/" target="blank"><img align="center" src="https://automotiquenation.com/instagram.svg" alt="Ayan Ansari" width="50"></a>
   |
-<a href="https://www.linkedin.com/in/objectorienteddev" target="blank"><img align="center" src="https://automotiquenation.com/linkedin.svg" alt="Ayan Ansari" width="50"></a>
+<a href="https://www.linkedin.com/in/mohdayanansari" target="blank"><img align="center" src="https://automotiquenation.com/linkedin.svg" alt="Ayan Ansari" width="50"></a>
 </p>
 
 <!--
