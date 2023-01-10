@@ -1,7 +1,7 @@
 <h4 align=center>Hi there 👋</h4>
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=objectorienteddev07&label=Profile%20views&color=129e00&style=plastic" alt="Ayan Ansari" /> </p>
+<p align="left"> <img src="https://media3.giphy.com/media/ZDTbix65Me1YDNLDF3/200.webp?cid=ecf05e47bslz79b2r5bvrju9vz84btf82e0gkbtnpykq054e&rid=200.webp&ct=ts" alt="Ayan Ansari" /> </p>
 <!-- <img align="right" width="450" src="https://automotiquenation.com/github.svg"> -->
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
