@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.instagram.com/ayanansari._/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/mohd-ayan-ansari.appspot.com/o/Misc%2F3d-Social_Icons%2FInstagram.png?alt=media&token=b2623d1a-548c-4fb1-958a-630664b6b927" alt="Mohd Ayan Ansari-Instagram" width="100"></a>
+<a href="https://www.instagram.com/ayanansari._/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/Instagram.png?alt=media&token=6236c1cc-3a60-4497-aa8c-88cb8e83bf8a" alt="Mohd Ayan Ansari-Instagram" width="100"></a>
   |
-<a href="https://www.linkedin.com/in/mohdayanansari" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/mohd-ayan-ansari.appspot.com/o/Misc%2F3d-Social_Icons%2FLinkedIn.png?alt=media&token=3f654b2f-5303-499c-a043-8f9832152a0a" alt="Mohd Ayan Ansari-LinkedIn" width="100"></a>
+<a href="https://www.linkedin.com/in/mohdayanansari" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/LinkedIn.png?alt=media&token=dc18d841-a939-493f-bfaf-28c911309389" alt="Mohd Ayan Ansari-LinkedIn" width="100"></a>
 </p>
 
 <!--
