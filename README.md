@@ -65,3 +65,4 @@ Here are some ideas to get you started:
 <!-- <img align="right" style="border-radius:50%"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 ---
 >Keep smiling and work harder :)
+<img align="left" width="450" src="https://media3.giphy.com/media/lnaoFgGrDHnivdu5Bc/200w.webp?cid=ecf05e47bslz79b2r5bvrju9vz84btf82e0gkbtnpykq054e&rid=200w.webp&ct=s">
