@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <h1>Statistics</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=objectorienteddev07&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=30" />
