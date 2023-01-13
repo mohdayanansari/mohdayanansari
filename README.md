@@ -19,7 +19,7 @@
   |
 <a href="https://www.linkedin.com/in/mohdayanansari" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/LinkedIn.png?alt=media&token=dc18d841-a939-493f-bfaf-28c911309389" alt="Mohd Ayan Ansari-LinkedIn" width="100"></a>
 </p>
-[<img src="https://raw.githubusercontent.com/objectorienteddev07/objectorienteddev07/main/profile-views.svg" height="50"/>](https://github.com/objectorienteddev07)
+<!-- [<img src="https://raw.githubusercontent.com/objectorienteddev07/objectorienteddev07/main/profile-views.svg" height="50"/>](https://github.com/objectorienteddev07) -->
 <!--
 **objectorienteddev07/objectorienteddev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
