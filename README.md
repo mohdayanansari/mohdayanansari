@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>My Skils</h1>
+<h1>### :hammer_and_wrench: My Skils</h1>
 <h1>Favourite Repo's</h1>
 
 
