@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.instagram.com/ayanansari._/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/Instagram.png?alt=media&token=6236c1cc-3a60-4497-aa8c-88cb8e83bf8a" alt="Mohd Ayan Ansari-Instagram" width="40" height="40"></a>
+<a href="https://www.instagram.com/ayanansari._/" target="_blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/Instagram.png?alt=media&token=6236c1cc-3a60-4497-aa8c-88cb8e83bf8a" alt="Mohd Ayan Ansari-Instagram" width="40" height="40"></a>
   |
-<a href="https://www.linkedin.com/in/mohdayanansari" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/LinkedIn.png?alt=media&token=dc18d841-a939-493f-bfaf-28c911309389" alt="Mohd Ayan Ansari-LinkedIn" width="40"></a>
+<a href="https://www.linkedin.com/in/mohdayanansari" target="_blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-first-demo-7da78.appspot.com/o/LinkedIn.png?alt=media&token=dc18d841-a939-493f-bfaf-28c911309389" alt="Mohd Ayan Ansari-LinkedIn" width="40" height="40"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=objectorienteddev07&style=for-the-badge&color=065535)
