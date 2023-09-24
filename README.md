@@ -5,7 +5,7 @@
 <img align="right" width="450" src="https://media3.giphy.com/media/ZDTbix65Me1YDNLDF3/200.webp?cid=ecf05e47bslz79b2r5bvrju9vz84btf82e0gkbtnpykq054e&rid=200.webp&ct=ts">
 
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
-- 🌱 **I’m currently acquiring knowledge of Web-3**
+- 🌱 **I’m currently acquiring knowledge of Web3**
 
 - ✉ **mohdayanansari@icloud.com**
 
