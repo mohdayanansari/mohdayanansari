@@ -7,7 +7,7 @@
 <!-- - 👨‍💻 You can also check out my portfolio at  -->
 - 🌱 **I’m currently acquiring the knowledge of Machine Learning**
 
-- ✉ **mohdayanansari1999@gmail.com**
+- ✉ **mohdayanansari@icloud.com**
 
 - 🚀 **Hoping to die on Mars**
 
