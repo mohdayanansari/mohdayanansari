@@ -1,4 +1,4 @@
-<h4 align=center>Hi there 👋</h4>
+<h4 align=center>Hey there 👋</h4>
 <h1 align=center>I'm Ayan Ansari</h1>
 <h4 align=center>Developer & Graphic Designer</h4>
 <!-- <p align="left"> <img src="" alt="Ayan Ansari" /> </p> -->
