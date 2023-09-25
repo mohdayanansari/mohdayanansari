@@ -119,8 +119,6 @@ Here are some ideas to get you started:
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'  width="40" height="40">
 </div>
 
-<h1>Favourite Repo's</h1>
-
 
 <!-- Moving illustration -->
 <!-- <img align="right" style="border-radius:50%"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
