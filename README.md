@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 
 </details>
 
+``` 
+
+```
+
 <details>
 
 <summary>Mostly Used Languages</summary>
@@ -60,6 +64,10 @@ Here are some ideas to get you started:
 
 </details>
 
+``` 
+
+```
+
 <details>
   
 <summary>Mostly Used Languages</summary>
@@ -67,10 +75,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 </details>
 
+``` 
 
-<!-- wakatime week stats -->
-
-
+```
 
 
 <h1>:hammer_and_wrench: Skils & Tools</h1>
