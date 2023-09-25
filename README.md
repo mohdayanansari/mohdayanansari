@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <summary>Mostly Used Languages</summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=pie&langs_count=10&hide_border=true&border_radius=30" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=donut-vertical&langs_count=10&hide_border=true&border_radius=30" />
 </a>
 
 </details>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   
 <summary>Coding Time Stats</summary>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 </details>
 
 
