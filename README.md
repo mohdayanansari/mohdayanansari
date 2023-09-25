@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohdayanansari&theme=radical&border_radius=18&card_width=550)](https://git.io/streak-stats)
 
 
+<div>
 <details class="display:block;">
 
 <summary>Github Stats</summary>
@@ -49,9 +50,9 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+</div>
 
-## 
-
+<div>
 <details class="display:block;">
 
 <summary>Mostly Used Languages</summary>
@@ -61,6 +62,8 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+</div>
+
 
 
 <div>
