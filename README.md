@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <summary>More Details</summary>
 
 <h6>
-**Github Stats**
+## **Github Stats**
 </h6>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohdayanansari&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=30" />
