@@ -45,25 +45,25 @@ Here are some ideas to get you started:
 
 <summary>More Details</summary>
 
-
 ## Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohdayanansari&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=30" />
 </a>
-
+</div>
 
 ## Mostly Used Languages
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
 </a>
-
+</div>
 
 ## Time Spend
+<div>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
