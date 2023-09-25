@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 </details>
 
----
+
 
 
 <details class="display:block;">
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </details>
 
----
+
 
 <details class="display:block;">
   
