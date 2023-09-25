@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Mostly Used Languages
-<div>
+<div class="width: 100px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
 </a>
@@ -61,9 +61,10 @@ Here are some ideas to get you started:
 
 ## Time Spend
 <div>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+</div>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
 
 
