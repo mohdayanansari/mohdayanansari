@@ -37,36 +37,35 @@ Here are some ideas to get you started:
 -->
 <h1>Statistics</h1>
 
-### Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohdayanansari&theme=radical&border_radius=18&card_width=550)](https://git.io/streak-stats)
 
 
 <details>
 
-<summary>More Details</summary>
+<summary>Github Stats</summary>
 
-## Github Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohdayanansari&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=30" />
 </a>
-</div>
 
-## Mostly Used Languages
-<div class="width: 100%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
-</a>
-</div>
-
-## Time Spend
-<div>
-
-</div>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 </details>
 
+<details>
+
+<summary>Mostly Used Languages</summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
+</a>
+
+</details>
+
+<details>
+  
+<summary>Mostly Used Languages</summary>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+</details>
 
 
 <!-- wakatime week stats -->
