@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 -->
 <h1>Statistics</h1>
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
 ## Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohdayanansari&theme=radical&border_radius=18&card_width=550)](https://git.io/streak-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
