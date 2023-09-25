@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Mostly Used Languages
-<div class="width: 100px;">
+<div class="width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
 </a>
