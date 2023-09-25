@@ -47,7 +47,13 @@ Here are some ideas to get you started:
 
 <summary>More Details</summary>
 
-### You can add a header
+`Github Stats`
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
+</a>
+`Mostly Used Languages`
+
+`Time Spend`
 
 You can add text within a collapsed section. 
 
@@ -58,9 +64,8 @@ You can add an image or a code block, too.
 ```
 
 </details>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
-</a>
+
+
 <!-- 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding Time Stats</h4> -->
 <!-- wakatime week stats -->
