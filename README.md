@@ -1,6 +1,6 @@
 <h4 align=center>Hey there 👋</h4>
 <h1 align=center>I'm Mohd Ayan Ansari</h1>
-<h4 align=center>Developer & Graphic Designer</h4>
+<h4 align=center>Fullstack Developer & Graphic Designer</h4>
 <!-- <p align="left"> <img src="" alt="Ayan Ansari" /> </p> -->
 <img align="right" width="450" src="https://media3.giphy.com/media/ZDTbix65Me1YDNLDF3/200.webp?cid=ecf05e47bslz79b2r5bvrju9vz84btf82e0gkbtnpykq054e&rid=200.webp&ct=ts">
 
