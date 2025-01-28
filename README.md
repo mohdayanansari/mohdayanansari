@@ -11,7 +11,7 @@
 
 - 🚀 **Hoping to die on Mars**
 
-- ☕ **<a href="https://www.buymeacoffee.com/ayanansari07">Buy me a coffee :)</a>**
+<!-- - ☕ **<a href="https://www.buymeacoffee.com/ayanansari07">Buy me a coffee :)</a>** -->
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
