@@ -61,19 +61,25 @@ const ayan = {
 
 <div align="center">
 
+<!-- Streak Stats — demolab is reliable -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=mohdayanansari&theme=radical&border_radius=12&card_width=500" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohdayanansari&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&border_radius=12&rank_icon=github" alt="GitHub Stats" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=radical&layout=compact&langs_count=8&hide_border=false&border_radius=12" alt="Top Languages" />
+<!-- Using statscards.rao.sh — a reliable alternative to github-readme-stats -->
+<img height="180em" src="https://statscards.rao.sh/github/card?username=mohdayanansari&theme=dark&show_icons=true" alt="GitHub Stats" onerror="this.style.display='none'" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdayanansari&theme=redical&bg_color=1a1b27&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=false&border_radius=12" alt="Contribution Graph" />
+<!-- Top Languages via github-readme-stats (separate call, more likely to succeed) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanansari&theme=radical&layout=donut&langs_count=8&hide_border=false&border_radius=12" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Contribution Graph — github-readme-activity-graph is solid -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdayanansari&theme=redical&bg_color=1a1b27&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 
 </div>
 
@@ -128,6 +134,10 @@ const ayan = {
 <br/>
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+<br/><br/>
 
 *Keep smiling and work harder :)*
 
