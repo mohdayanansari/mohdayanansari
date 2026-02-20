@@ -39,7 +39,7 @@ const ayan = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=objectorienteddev07&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mohdayanansari07&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -75,7 +75,7 @@ const ayan = {
 <br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=16&theme=radical&layout=compact&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohdayanansari&border_radius=16&theme=radical&layout=compact&hide_title=false" />
 </a>
 
 </div>
